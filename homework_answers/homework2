@@ -1,0 +1,21 @@
+1. How many validators are there currently?
+The current amount of validators on main net are 1,721.
+
+
+2. What is special about this  block: https://explorer.solana.com/block/0?
+- This block is the genesis block from solana. So it is the first block from the blockchain. We can conclude that from various points on the explorer. The parent slot is itself (0) and the child block is 1 and the slot is 0 while the slot from block 1 is 1.
+
+
+3. What is special about this address: https://explorer.solana.com/address/1nc1nerator11111111111111111111111111111111?
+- Like the address implies this address is used to burn solana! When we send tokens to this address they will be burn in the end of the next block verification.
+
+
+4. What is this transaction doing: https://explorer.solana.com/tx/45pGoC4Rr3fJ1TKrsiRkhHRbdUeX7633XAGVec6XzVdpRbzQgHhe6ZC6Uq164MPWtiqMg7wCkC6Wy3jy2BqsDEKf?
+- This Transactions is burning 11M of solana. I guess is related with this news: https://solana.com/news/solana-foundation-permanently-removes--11-365m-from-token-supply and this was done to regulate the market to be according to what solana foundation was aiming of market supply.
+
+
+5. What is the largest balance you can find in an account?
+- The max supply of a token is 2^64.
+
+6. What advantages will the end user see when using Solana compared to other blockchains?
+- Solana is way better in scalling. In blockchain we have a trilemma that is layer1 solutions are not able to be secure, descentralized and scalable at the same time, at least 100%. Solana is a good match between the three components, of course it has is downsides. From what I remember is a little bit more centralized then other Blockchains like Ethereum, but is a good contract between the three aspects. So in the end solana is a great solution for building on it due to it's transactions speed and really low fees. Blockchains like Ethereum (most used bc to smart contracts) are too much expensive and slow and people are building layer twos on top to be able to make it good enough. I think Solana can solve that issue by itself.
