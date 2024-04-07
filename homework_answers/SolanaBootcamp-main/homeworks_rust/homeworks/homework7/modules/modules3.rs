@@ -1,14 +1,5 @@
 // modules3.rs
-// You can use the 'use' keyword to bring module paths from modules from anywhere
-// and especially from the Rust standard library into your scope.
-// Bring SystemTime and UNIX_EPOCH
-// from the std::time module. Bonus style points if you can do it with one line!
-// Make me compile! Execute `rustlings hint modules3` for hints :)
-
-// I AM NOT DONE
-
-// TODO: Complete this use statement
-use ???
+use std::time::*;
 
 fn main() {
     match SystemTime::now().duration_since(UNIX_EPOCH) {
