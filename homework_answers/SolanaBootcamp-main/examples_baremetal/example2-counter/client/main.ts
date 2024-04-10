@@ -80,6 +80,9 @@ export async function deployGreetAccount(
   ]);
 
   console.log("Program ID account: ", programId.toBase58());
+  console.log('test ', payer.publicKey);
+  const randomKeypair = Keypair.generate();
+  console.log('randomKeypair ', randomKeypair.publicKey.toBase58());
 
   const GREETING_SEED = "hello_this_can_be_anything";
   let greetedPubkey = await PublicKey.createWithSeed(
