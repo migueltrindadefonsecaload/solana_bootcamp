@@ -1,0 +1,10 @@
+/home/solana/Desktop/solana_bootcamp/final_project/solana-bootcamp-project-team-7/blockchain-ticketing-system-solana/ticketing-system/target/debug/deps/liblog-a00a231d50da9d95.rmeta: /home/solana/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.21/src/lib.rs /home/solana/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.21/src/macros.rs /home/solana/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.21/src/serde.rs /home/solana/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.21/src/__private_api.rs
+
+/home/solana/Desktop/solana_bootcamp/final_project/solana-bootcamp-project-team-7/blockchain-ticketing-system-solana/ticketing-system/target/debug/deps/liblog-a00a231d50da9d95.rlib: /home/solana/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.21/src/lib.rs /home/solana/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.21/src/macros.rs /home/solana/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.21/src/serde.rs /home/solana/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.21/src/__private_api.rs
+
+/home/solana/Desktop/solana_bootcamp/final_project/solana-bootcamp-project-team-7/blockchain-ticketing-system-solana/ticketing-system/target/debug/deps/log-a00a231d50da9d95.d: /home/solana/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.21/src/lib.rs /home/solana/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.21/src/macros.rs /home/solana/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.21/src/serde.rs /home/solana/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.21/src/__private_api.rs
+
+/home/solana/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.21/src/lib.rs:
+/home/solana/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.21/src/macros.rs:
+/home/solana/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.21/src/serde.rs:
+/home/solana/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.21/src/__private_api.rs:

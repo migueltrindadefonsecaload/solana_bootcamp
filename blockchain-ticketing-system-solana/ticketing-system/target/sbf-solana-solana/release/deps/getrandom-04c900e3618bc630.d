@@ -1,0 +1,10 @@
+/home/solana/Desktop/solana_bootcamp/final_project/solana-bootcamp-project-team-7/blockchain-ticketing-system-solana/ticketing-system/target/sbf-solana-solana/release/deps/libgetrandom-04c900e3618bc630.rmeta: /home/solana/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.14/src/lib.rs /home/solana/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.14/src/error.rs /home/solana/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.14/src/util.rs /home/solana/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.14/src/custom.rs
+
+/home/solana/Desktop/solana_bootcamp/final_project/solana-bootcamp-project-team-7/blockchain-ticketing-system-solana/ticketing-system/target/sbf-solana-solana/release/deps/libgetrandom-04c900e3618bc630.rlib: /home/solana/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.14/src/lib.rs /home/solana/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.14/src/error.rs /home/solana/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.14/src/util.rs /home/solana/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.14/src/custom.rs
+
+/home/solana/Desktop/solana_bootcamp/final_project/solana-bootcamp-project-team-7/blockchain-ticketing-system-solana/ticketing-system/target/sbf-solana-solana/release/deps/getrandom-04c900e3618bc630.d: /home/solana/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.14/src/lib.rs /home/solana/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.14/src/error.rs /home/solana/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.14/src/util.rs /home/solana/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.14/src/custom.rs
+
+/home/solana/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.14/src/lib.rs:
+/home/solana/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.14/src/error.rs:
+/home/solana/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.14/src/util.rs:
+/home/solana/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.14/src/custom.rs:

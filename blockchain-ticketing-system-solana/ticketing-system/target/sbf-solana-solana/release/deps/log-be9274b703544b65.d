@@ -1,0 +1,10 @@
+/home/solana/Desktop/solana_bootcamp/final_project/solana-bootcamp-project-team-7/blockchain-ticketing-system-solana/ticketing-system/target/sbf-solana-solana/release/deps/liblog-be9274b703544b65.rmeta: /home/solana/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.21/src/lib.rs /home/solana/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.21/src/macros.rs /home/solana/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.21/src/serde.rs /home/solana/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.21/src/__private_api.rs
+
+/home/solana/Desktop/solana_bootcamp/final_project/solana-bootcamp-project-team-7/blockchain-ticketing-system-solana/ticketing-system/target/sbf-solana-solana/release/deps/liblog-be9274b703544b65.rlib: /home/solana/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.21/src/lib.rs /home/solana/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.21/src/macros.rs /home/solana/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.21/src/serde.rs /home/solana/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.21/src/__private_api.rs
+
+/home/solana/Desktop/solana_bootcamp/final_project/solana-bootcamp-project-team-7/blockchain-ticketing-system-solana/ticketing-system/target/sbf-solana-solana/release/deps/log-be9274b703544b65.d: /home/solana/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.21/src/lib.rs /home/solana/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.21/src/macros.rs /home/solana/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.21/src/serde.rs /home/solana/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.21/src/__private_api.rs
+
+/home/solana/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.21/src/lib.rs:
+/home/solana/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.21/src/macros.rs:
+/home/solana/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.21/src/serde.rs:
+/home/solana/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.21/src/__private_api.rs:
